@@ -21,6 +21,8 @@ HTOS is also expandable in the future with powerfull webapps made in HTML5, Java
 
 [Demo](http://htos-demo.epizy.com/htos){: .btn}
 
+[button url="http://www.google.com"]
+
 # How to install
 on your own linux server:
 1. run ```sudo apt install apache2```
