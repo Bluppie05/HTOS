@@ -23,13 +23,13 @@ HTOS is also expandable in the future with powerfull webapps made in HTML5, Java
 on your own linux server:
 1. run ```sudo apt install apache2```
 2. run ```sudo apt install php```
-3. run ```sudo chown -R www-data:www-data /var/www/html
-3. run ```cd /var/www/html
-4. run ```git clone ```
+3. run ```sudo chown -R www-data:www-data /var/www/html```
+3. run ```cd /var/www/html```
+4. run ```git clone https://github.com/Bluppie05/HTOS.git```
 5. Enjoy!
 
 on an external hosted php server:
 1. install git on your computer(https://git-scm.com/downloads)
-2. run ```git clone ```
+2. run ```git clone https://github.com/Bluppie05/HTOS.git```
 3. upload the files to your external hosted php server
 4. Enjoy!
