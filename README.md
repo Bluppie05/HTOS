@@ -19,9 +19,7 @@ HTOS is also expandable in the future with powerfull webapps made in HTML5, Java
 
 # Until now we only had operating systems for hosting a webserver, not operating systems which run on a webserver
 
-[Demo](http://htos-demo.epizy.com/htos){: .btn}
-
-[button url="http://www.google.com"]
+[Demo](http://htos-demo.epizy.com/htos)
 
 # How to install
 on your own linux server:
