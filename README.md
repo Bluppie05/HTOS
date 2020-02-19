@@ -25,8 +25,9 @@ on your own linux server:
 2. run ```sudo apt install php```
 3. run ```sudo chown -R www-data:www-data /var/www/html```
 3. run ```cd /var/www/html```
-4. run ```git clone https://github.com/Bluppie05/HTOS.git```
-5. Enjoy!
+4. run ```sudo apt install git```
+5. run ```git clone https://github.com/Bluppie05/HTOS.git```
+6. Enjoy!
 
 on an external hosted php server:
 1. install git on your computer(https://git-scm.com/downloads)
