@@ -34,3 +34,8 @@ HTOS is also expandable with applications made in HTML5, JavaScript, PHP and pos
 4. Your x86 pc is ready to go
 
 **Note: this installation process will wipe your device's storage. Backup your desired files before following through**
+
+# Credits
+- Bluppie05: Creator and main developer of HTOS
+- prasathmani: Creator of TinyFileManager(https://github.com/prasathmani/tinyfilemanager) the base of HTOS File Manager
+- Linus Torvalds: Main creator of Linux(https://github.com/torvalds/linux), the underlying kernel of HTOS
